@@ -13,6 +13,8 @@
 + Identify the scope of a given variable
 
 ## Lesson
+<iframe width="100%" height="720" src="https://www.youtube.com/embed/8_E9e1RUGU0?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 + Hey folks, it's Ian from Flatiron School. In this video, we're going to look at using methods and arguments in Ruby.
 + Our learning goals for this video:
   + Identify implicit return values in Ruby syntax
